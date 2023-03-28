@@ -1,4 +1,4 @@
-# Module_21_Challenge
+# KASC_Coin
 Goal: To develop a monetary system for a Mars colony, based on blockchain technology. This monetary system incorporates a new cryptocurrency called KaseiCoin with symbol of 'KASC'. In this program we will create an ERC-20 compliant fungible token that will be minted using a crowdsale contract. 
 
 ---
